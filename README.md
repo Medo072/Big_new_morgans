@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Big News - Your Ultimate News Destination📰</h1>
-<div style="text-align: center;">
+<div align="center">
   <img src="assets/big_news_morgans_president_of_world_economy_news_by_bodskih_deqkgsw.png" alt="Big news morgans" width="180" height="160"/>
 </div>
 
@@ -55,6 +55,7 @@ git clone https://github.com/Medo072/Big_news_morgans.git
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="20" height="20"/> JavaScript   
 
+News API
 <hr>
 
 
