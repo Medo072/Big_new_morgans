@@ -6,13 +6,13 @@
 <p style="font-size: 16px;">Welcome to Big News, your ultimate destination for the latest news from around the world🌍. Stay informed and up-to-date with our sleek and user-friendly news website😎. Explore a wide range of news categories, dive into captivating articles, and discover the stories that matter most to you🤩.</p>
 <hr>
 
-<h2>Project interface & Video 🎥</h2>
+<h2>🎥 Project interface & Video </h2>
 
 <img src="assets/interface.jpg" alt="interface">
 
 <h3>
 
-[Project video 🎥](https://drive.google.com/file/d/10_Ne_ZAVoPdgO3dPBD1NOrXixWqNHZ8t/view?usp=sharing)
+[🎥 Project video](https://drive.google.com/file/d/10_Ne_ZAVoPdgO3dPBD1NOrXixWqNHZ8t/view?usp=sharing)
 
 </h3>
 <hr>
@@ -32,7 +32,7 @@
 * **Powered by the News API**: Big News integrates seamlessly with the powerful News API, ensuring a vast and constantly updated news database at your fingertips.
 <hr>
 
-<h2>Getting Started</h2>
+<h2>🛠️ Getting Started</h2>
 
 1. Clone the Big News repository to your local machine.
 
