@@ -52,4 +52,4 @@ git clone https://github.com/Medo072/Big_news_morgans.git
 
 <h2>💻 Technologies Used</h2>
 
-* HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="30" height="30"/> HTML
