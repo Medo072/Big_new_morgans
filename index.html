@@ -6,15 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Big news</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="assets/big_news_morgans_president_of_world_economy_news_by_bodskih_der5nb5.png">
+    <link rel="icon" type="image/png" href="assets/big_news_morgans_president_of_world_economy_news_by_bodskih_der5nb5.png">
 </head>
 <body>
 
     <nav>
         <div class="main-nav container flex">
-            <a href="#" onclick="reload()" class="company-logo">
-                <img src="assets/big_news_morgans_president_of_world_economy_news_by_bodskih_deqkgsw.png" alt="company logo">
-            </a>
+            <div class="logos">
+                <a href="#" onclick="reload()" class="company-logo">
+                    <img src="assets/big_news_morgans_president_of_world_economy_news_by_bodskih_deqkgsw.png" alt="company logo">
+                    <img src="assets/WhatsApp Image 2023-07-11 at 18.29.24.png" alt="website-name">
+                </a>
+            </div>
             <div class="nav-links">
                 <ul class="flex">
                     <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('finance')">Finance</li>
@@ -36,14 +39,11 @@
             <form class="sort-list flex container">
                 <div>
                     <label for="Sorting">Sort by</label>
-                    <select class="sort-box" name="Sort" id="Sort">
-                    <option value="Relevancey">Relevancy</option>
-                    <option value="Publishing date">Publishing date</option>
-                    <option value="Popularity">Popularity</option>
+                    <select class="sort-box" name="Sort" id="sort-box">
+                    <option value="publishedAt" onclick="onSortClicked('publishedAt')">Publishing date</option>
+                    <option value="relevancy" onclick="onSortClicked('relevancy')">Relevancy</option>
+                    <option value="popularity" onclick="onSortClicked('popularity')">Popularity</option>
                     </select>
-                </div>
-                <div class="button">
-                    <input class="sort-button" type="submit" value="sort">
                 </div>
               </form>
         </div>
